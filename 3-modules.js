@@ -1,0 +1,10 @@
+const names = require(`./names`)
+//console.log(names)
+const sayHi = require(`./utils`)
+const data = require(`./6-alternative-flavour`)
+//console.log(data)
+require(`./7-mind-grenade`)
+
+// sayHi(`susan`)
+// sayHi(john)
+// sayHi(Shikha)
